@@ -1,0 +1,1 @@
+{"name":"Local: alien_dictionary","url":"/home/devansh/Desktop/Competitive Programming/gfg/alien_dictionary.cpp","tests":[{"id":1725641370053,"input":"5\n4\nbaa abcd abca cab cad","output":"bdac"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/devansh/Desktop/Competitive Programming/gfg/alien_dictionary.cpp","group":"local","local":true}
